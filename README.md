@@ -10,7 +10,7 @@ This repository accompanies the lecture explaining the **Factory Method Pattern*
 
 ▶️ Watch on YouTube:  
 
-[Lecture Video](#)
+[Lecture Video](https://youtu.be/PdmbBfw5mdg)
 
 ---
 
