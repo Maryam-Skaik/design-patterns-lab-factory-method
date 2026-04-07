@@ -1,9 +1,6 @@
 # 🏭 Design Patterns Lab — Factory Method Pattern
 
-![Java](https://img.shields.io/badge/Language-Java-blue)  
-![Pattern](https://img.shields.io/badge/Pattern-Factory%20Method-green)  
-![Level](https://img.shields.io/badge/Level-Intermediate-orange)  
-![Focus](https://img.shields.io/badge/Focus-Scalable%20Design%20%26%20OCP-purple)
+![Java](https://img.shields.io/badge/Language-Java-blue) ![Pattern](https://img.shields.io/badge/Pattern-Factory%20Method-green) ![Level](https://img.shields.io/badge/Level-Intermediate-orange) ![Focus](https://img.shields.io/badge/Focus-Scalable%20Design%20%26%20OCP-purple)
 
 ---
 
