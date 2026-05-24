@@ -3,7 +3,6 @@ package FileProcessing;
 /**
  * Concrete implementation of FileProcessor for JSON files.
  * 
- * Teaching point:
  * - Handles API ingestion processing behavior.
  */
 public class JSONFileProcessor implements FileProcessor {
