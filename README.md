@@ -1,6 +1,10 @@
 # 🏭 Design Patterns Lab — Factory Method Pattern
 
-![Java](https://img.shields.io/badge/Language-Java-blue) ![Pattern](https://img.shields.io/badge/Pattern-Factory%20Method-green) ![Level](https://img.shields.io/badge/Level-Intermediate-orange) ![Focus](https://img.shields.io/badge/Focus-Scalable%20Design%20%26%20OCP-purple)
+![Java](https://img.shields.io/badge/Language-Java-blue) 
+![Pattern](https://img.shields.io/badge/Pattern-Factory%20Method-pink) 
+![Week](https://img.shields.io/badge/Week-4-green)
+![Level](https://img.shields.io/badge/Level-Intermediate-orange) 
+![Focus](https://img.shields.io/badge/Focus-Scalable%20Design%20%26%20OCP-purple)
 
 ---
 
@@ -274,6 +278,27 @@ Design a system where:
 - Object creation is delegated  
 - New types can be added easily  
 - Code remains clean and maintainable  
+
+---
+
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+- UML diagrams and design explanation
+- Clean and well-structured Java implementation
+- Notes about relationships and design decisions
+- Factory Method workflow explanation
+- Open/Closed Principle analysis
+- Example usage through `Main.java`
+
+### Included Solutions
+- ☁️ Cloud File Processing System
+
+> Students are encouraged to complete the activities independently first, then use the provided solutions to compare implementations, understand design decisions, and explore alternative approaches.
 
 ---
 
