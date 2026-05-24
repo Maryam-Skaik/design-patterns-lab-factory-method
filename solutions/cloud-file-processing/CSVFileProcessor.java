@@ -3,7 +3,6 @@ package FileProcessing;
 /**
  * Concrete implementation of FileProcessor for CSV files.
  * 
- * Teaching point:
  * - Encapsulates CSV-specific processing behavior.
  * - Can evolve independently without affecting other processors.
  */
